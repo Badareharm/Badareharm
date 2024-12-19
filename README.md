@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on the **IBM Data Science Professional Certificate** on Coursera.  
+- Learning Python, SQL, and R for data analysis.  
+- Exploring tools like Jupyter Notebooks, RStudio, and Git.  
+- Applying the CRISP-DM framework to real-world case studies.  
+
+So far, I’ve completed **50% of the course** and built an exploratory data analysis project using Python. Excited to dive deeper into machine learning and big data!
