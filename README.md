@@ -12,5 +12,3 @@ Here are some of the exciting projects I've developed:
 
 - **Mathematical GUI Software**  
 - **GUI MySQL Workbench**  
-
-\
