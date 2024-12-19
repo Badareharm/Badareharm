@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF00FF&size=22&vCenter=true&height=16&lines=Salam+I+am+Ahmad;I+love+to+play+basketball;I+want+to+become+a+sports+analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF00FF&size=18&vCenter=true&height=16&lines=Salam,+I+am+Ahmad;I+love+to+play+Basketball;I+want+to+become+a+Sports+Analyst" alt="Typing SVG" />
 
 <!--
 **Badareharm/Badareharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
