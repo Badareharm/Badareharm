@@ -1,23 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF00FF&size=18&vCenter=true&height=16&lines=Salam,+I+am+Ahmad;I+love+to+play+Basketball;I+want+to+become+a+Sports+Analyst" alt="Typing SVG" />
 
-<!--
-**Badareharm/Badareharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm currently working on the **IBM Data Science Professional Certificate** on Coursera.  
-- Learning Python, SQL, and R for data analysis.  
-- Exploring tools like Jupyter Notebooks, RStudio, and Git.  
-- Applying the CRISP-DM framework to real-world case studies.  
+- Learning Python for data analysis.  
+- Exploring tools like Jupyter Notebooks and RStudio.    
 
-So far, I’ve completed **50% of the course** and built an exploratory data analysis project using Python. Excited to dive deeper into machine learning and big data!
+So far, I’ve completed **50% of the course** and built an exploratory data analysis project using Python. 
