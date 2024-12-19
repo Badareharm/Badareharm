@@ -9,5 +9,5 @@ I'm currently working on the **IBM Data Science Professional Certificate** on Co
 
 Projects I have worked on:
 
-- **Mathematical GUI Software**  
-- **GUI MySQL Workbench**  
+- **Mathematical GUI Software**: Developed using Python and Tkinter
+- **GUI MySQL Workbench**: Designed using Python, SQL, Tkinter, and CustomTkinter  
