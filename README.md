@@ -5,3 +5,17 @@ I'm currently working on the **IBM Data Science Professional Certificate** on Co
 - Exploring tools like Jupyter Notebooks and RStudio.    
 
 So far, I’ve completed **50% of the course** and built an exploratory data analysis project using Python. 
+
+-----
+
+## 🛠️ Projects I've Worked On
+
+Here are some of the exciting projects I've developed:
+
+- **Mathematical GUI Software**  
+  A Python and Tkinter-based software that simplifies complex mathematical calculations with an interactive graphical interface.
+
+- **GUI MySQL Workbench**  
+  A custom MySQL Workbench built using Python, SQL, Tkinter, and CustomTkinter (CTk). It provides a user-friendly interface for database operations, including querying, editing, and managing MySQL databases.
+
+These projects have helped me strengthen my programming, GUI design, and database management skills. I'm passionate about solving real-world problems with intuitive and efficient tools!
