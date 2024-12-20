@@ -3,7 +3,8 @@
 I'm currently working on the **IBM Data Science Professional Certificate** on Coursera, where I have completed:  
 - What is Data Science
 - Tools for Data Science
-- Data Science Methodology     
+- Data Science Methodology
+- Working with Data in Python     
 
 -----
 
